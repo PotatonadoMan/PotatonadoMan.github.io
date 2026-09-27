@@ -1,2 +1,2 @@
 # PotatonadoMan.github.io
-Main page for PotatondoMan github account
+Main page for PotatonadoMan github account
